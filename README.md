@@ -14,7 +14,7 @@ You can install `psutil` with pip:
 
 ```shell
 pip install psutil
-
+```
 ## Usage
 
 Run the script in a terminal with Python 3:
